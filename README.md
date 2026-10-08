@@ -1,2 +1,2 @@
-# Portfolio
-Portfolio showcasing digital learning resources, learner support materials and online learning activities.
+# LMS / Digital Learning Practice
+Selected examples of digital learning resources, learner enablement, accessible content and online learning activities.
